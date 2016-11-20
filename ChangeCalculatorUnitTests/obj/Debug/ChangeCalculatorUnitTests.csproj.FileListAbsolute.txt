@@ -1,1 +1,8 @@
 C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\obj\Debug\ChangeCalculatorUnitTests.csprojResolveAssemblyReference.cache
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\bin\Debug\ChangeCalculatorUnitTests.dll
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\bin\Debug\ChangeCalculatorUnitTests.pdb
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\bin\Debug\ChangeCalculator.exe
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\bin\Debug\ChangeCalculator.pdb
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\obj\Debug\ChangeCalculatorUnitTests.dll
+C:\Code\ChangeCalculator\ChangeCalculator\ChangeCalculatorUnitTests\obj\Debug\ChangeCalculatorUnitTests.pdb

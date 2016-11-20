@@ -7,10 +7,9 @@ namespace ChangeCalculatorUnitTests
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test_that_one_pence_change_requires_1_coin()
         {
-            //TODO Finish first unit test by referencing ChangeCalculator...
-            AssertThat.IsEqual(1, CalculateNumberOfCoinsIn(0.01));
+            Assert.AreEqual(1, ChangeCalculator.Program.CalculateNumberOfCoinsIn(0.01));
         }
     }
 }
